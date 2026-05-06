@@ -277,7 +277,7 @@ Durante esse laboratório foi possível aprender:
 
 ---
 
-# Mentalidade de Data Center
+# Foco em Data Center
 
 O foco do projeto não foi apenas executar comandos, mas seguir uma lógica operacional:
 
@@ -315,7 +315,7 @@ Essa abordagem é essencial em ambientes de infraestrutura, suporte e Data Cente
 
 ---
 
-# Autor
+# By
 
 Joandson Oliveira
 
